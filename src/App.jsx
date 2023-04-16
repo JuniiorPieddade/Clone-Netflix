@@ -51,7 +51,7 @@ function App() {
         ))}
       </section>
       <footer>
-        Feito com Carinho por | Luciano Piedade <br/>
+        Desenvolvido por: © Luciano Piedade <br/>
         Direitos de Imagem para Netflix <br/>
         Dados pegos do site Themoviedb.org
       </footer>
